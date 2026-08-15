@@ -1,0 +1,17 @@
+# macOS system metadata
+.DS_Store
+.localized
+
+# C/C++ Compiled Binaries and Objects
+queue_sim
+a.out
+1
+*.o
+*.exe
+*.dSYM/
+
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+venv/
+.venv/
