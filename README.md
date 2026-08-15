@@ -120,7 +120,9 @@ For each new weekly assignment:
 4. Update this `README.md` with the new experiment findings and conclusion.
 5. Commit and push:
    ```bash
+   cd "/Users/mohithchandra/Documents/LABS SEM 5/CN LAB"
    git add .
    git commit -m "Add Lab X assignment code and report"
    git push origin main
+   
    ```
